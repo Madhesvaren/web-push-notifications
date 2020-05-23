@@ -1,14 +1,14 @@
 {
   "name": "web-push-notification",
   "version": "1.0.0",
-  "description": "",
+  "description": "Web Push Notification Demo from plural sight",
   "main": "clientApp.js",
   "scripts": {
     "start": "node ./clientApp.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
-  "author": "",
+  "author": "madhesvaren",
   "license": "ISC",
   "dependencies": {
     "express": "^4.17.1"
